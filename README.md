@@ -1,0 +1,2 @@
+# ThaiAutoSwitcher-Releases
+ThaiAutoSwitcher-Releases
